@@ -6,6 +6,4 @@ output: md_document
 ---
 
 
-<iframe src="assignment2map/index.html"></iframe>
-
-
+<iframe src="assignment2map/index.html" height=768 width=1024></iframe>
